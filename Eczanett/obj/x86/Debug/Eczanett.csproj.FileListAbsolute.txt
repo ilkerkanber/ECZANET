@@ -1,0 +1,98 @@
+C:\Users\ASUS\Desktop\C#\Eczanett\Eczanett\bin\Debug\Eczanett.exe
+C:\Users\ASUS\Desktop\C#\Eczanett\Eczanett\bin\Debug\Eczanett.pdb
+C:\Users\ASUS\Desktop\C#\Eczanett\Eczanett\obj\x86\Debug\Eczanett.Properties.Resources.resources
+C:\Users\ASUS\Desktop\C#\Eczanett\Eczanett\obj\x86\Debug\Eczanett.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\C#\Eczanett\Eczanett\obj\x86\Debug\Eczanett.exe
+C:\Users\ASUS\Desktop\C#\Eczanett\Eczanett\obj\x86\Debug\Eczanett.pdb
+C:\Users\ASUS\Desktop\C#\Eczanett\Eczanett\obj\x86\Debug\Eczanett.Form1.resources
+C:\Users\ASUS\Desktop\C#\Eczanett\Eczanett\obj\x86\Debug\Eczanett.veriler.resources
+C:\Users\ASUS\Desktop\C#\Eczanett\Eczanett\obj\x86\Debug\Eczanett.kan.resources
+C:\Users\ASUS\Desktop\C#\Eczanett\Eczanett\obj\x86\Debug\Eczanett.oes.resources
+C:\Users\ASUS\Desktop\C#\Eczanett\Eczanett\obj\x86\Debug\Eczanett.oeskayıt.resources
+C:\Users\ASUS\Desktop\C#\ECZANET\Eczanett\obj\x86\Debug\Eczanett.exe
+C:\Users\ASUS\Desktop\C#\ECZANET\Eczanett\obj\x86\Debug\Eczanett.pdb
+C:\Users\ASUS\Desktop\C#\ECZANET\Eczanett\bin\Debug\Eczanett.exe
+C:\Users\ASUS\Desktop\C#\ECZANET\Eczanett\bin\Debug\Eczanett.pdb
+C:\Users\ASUS\Desktop\C#\ECZANET\Eczanett\obj\x86\Debug\Eczanett.Form1.resources
+C:\Users\ASUS\Desktop\C#\ECZANET\Eczanett\obj\x86\Debug\Eczanett.kan.resources
+C:\Users\ASUS\Desktop\C#\ECZANET\Eczanett\obj\x86\Debug\Eczanett.oes.resources
+C:\Users\ASUS\Desktop\C#\ECZANET\Eczanett\obj\x86\Debug\Eczanett.oeskayıt.resources
+C:\Users\ASUS\Desktop\C#\ECZANET\Eczanett\obj\x86\Debug\Eczanett.Properties.Resources.resources
+C:\Users\ASUS\Desktop\C#\ECZANET\Eczanett\obj\x86\Debug\Eczanett.veriler.resources
+C:\Users\ASUS\Desktop\C#\ECZANET\Eczanett\obj\x86\Debug\Eczanett.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\C#\ECZANET\Eczanett\obj\x86\Debug\Eczanett.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\C#\ECZANET\Eczanett\obj\x86\Debug\Eczanett.drone.resources
+C:\Users\ASUS\Desktop\C#\ECZANET\Eczanett\obj\x86\Debug\Eczanett.Acılıs.resources
+C:\Users\ASUS\Desktop\C#\ECZANET\Eczanett\obj\x86\Debug\Eczanett.solust.resources
+C:\Users\ASUS\Desktop\C#\ECZANET\Eczanett\obj\x86\Debug\Eczanett.sagust.resources
+C:\Users\ASUS\Desktop\C#\ECZANET\Eczanett\obj\x86\Debug\Eczanett.solalt.resources
+C:\Users\ASUS\Desktop\C#\ECZANET\Eczanett\obj\x86\Debug\Eczanett.sagalt.resources
+C:\Users\ASUS\Desktop\C#\ECZANET\Eczanett\obj\x86\Debug\Eczanett.oessecım.resources
+C:\Users\ASUS\Desktop\C#\ECZANET\Eczanett\obj\x86\Debug\Eczanett.SIKAYET.resources
+C:\Users\ASUS\Desktop\C#\ECZANET\Eczanett\obj\x86\Debug\Eczanett.PAROLADEGIS.resources
+C:\Users\ASUS\Desktop\C#\ECZANET\Eczanett\obj\x86\Debug\Eczanett.YETKILI.resources
+C:\Users\ASUS\Desktop\C#\ECZANET\Eczanett\obj\x86\Debug\Eczanett.mektup.resources
+C:\Users\ASUS\Desktop\C#\ECZANET\Eczanett\obj\x86\Debug\Eczanett.YETKILIKONTROL.resources
+C:\Users\ASUS\Desktop\C#\ECZANET\Eczanett\obj\x86\Debug\Eczanett.YETKILIPCHANGE.resources
+C:\Users\ASUS\Desktop\C#\ECZANET\Eczanett\obj\x86\Debug\Eczanett.exe.licenses
+C:\Users\ASUS\Desktop\IsMyFolder\C# Projects\ECZANET\Eczanett\obj\x86\Debug\Eczanett.exe
+C:\Users\ASUS\Desktop\IsMyFolder\C# Projects\ECZANET\Eczanett\obj\x86\Debug\Eczanett.pdb
+C:\Users\ASUS\Desktop\IsMyFolder\Projects\C# Projects\ECZANET\Eczanett\obj\x86\Debug\Eczanett.exe
+C:\Users\ASUS\Desktop\IsMyFolder\Projects\C# Projects\ECZANET\Eczanett\obj\x86\Debug\Eczanett.pdb
+C:\Users\ASUS\Desktop\Diğer Projeler\C# Projects\ECZANET\Eczanett\obj\x86\Debug\Eczanett.exe
+C:\Users\ASUS\Desktop\Diğer Projeler\C# Projects\ECZANET\Eczanett\obj\x86\Debug\Eczanett.pdb
+C:\Users\ASUS\Desktop\Diğer Projeler\C# Projects\ECZANET\Eczanett\obj\x86\Debug\Eczanett.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\Diğer Projeler\C# Projects\ECZANET\Eczanett\obj\x86\Debug\Eczanett.Acılıs.resources
+C:\Users\ASUS\Desktop\Diğer Projeler\C# Projects\ECZANET\Eczanett\obj\x86\Debug\Eczanett.drone.resources
+C:\Users\ASUS\Desktop\Diğer Projeler\C# Projects\ECZANET\Eczanett\obj\x86\Debug\Eczanett.Form1.resources
+C:\Users\ASUS\Desktop\Diğer Projeler\C# Projects\ECZANET\Eczanett\obj\x86\Debug\Eczanett.kan.resources
+C:\Users\ASUS\Desktop\Diğer Projeler\C# Projects\ECZANET\Eczanett\obj\x86\Debug\Eczanett.mektup.resources
+C:\Users\ASUS\Desktop\Diğer Projeler\C# Projects\ECZANET\Eczanett\obj\x86\Debug\Eczanett.oes.resources
+C:\Users\ASUS\Desktop\Diğer Projeler\C# Projects\ECZANET\Eczanett\obj\x86\Debug\Eczanett.oeskayıt.resources
+C:\Users\ASUS\Desktop\Diğer Projeler\C# Projects\ECZANET\Eczanett\obj\x86\Debug\Eczanett.oessecım.resources
+C:\Users\ASUS\Desktop\Diğer Projeler\C# Projects\ECZANET\Eczanett\obj\x86\Debug\Eczanett.PAROLADEGIS.resources
+C:\Users\ASUS\Desktop\Diğer Projeler\C# Projects\ECZANET\Eczanett\obj\x86\Debug\Eczanett.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Diğer Projeler\C# Projects\ECZANET\Eczanett\obj\x86\Debug\Eczanett.sagalt.resources
+C:\Users\ASUS\Desktop\Diğer Projeler\C# Projects\ECZANET\Eczanett\obj\x86\Debug\Eczanett.sagust.resources
+C:\Users\ASUS\Desktop\Diğer Projeler\C# Projects\ECZANET\Eczanett\obj\x86\Debug\Eczanett.SIKAYET.resources
+C:\Users\ASUS\Desktop\Diğer Projeler\C# Projects\ECZANET\Eczanett\obj\x86\Debug\Eczanett.solalt.resources
+C:\Users\ASUS\Desktop\Diğer Projeler\C# Projects\ECZANET\Eczanett\obj\x86\Debug\Eczanett.solust.resources
+C:\Users\ASUS\Desktop\Diğer Projeler\C# Projects\ECZANET\Eczanett\obj\x86\Debug\Eczanett.veriler.resources
+C:\Users\ASUS\Desktop\Diğer Projeler\C# Projects\ECZANET\Eczanett\obj\x86\Debug\Eczanett.YETKILI.resources
+C:\Users\ASUS\Desktop\Diğer Projeler\C# Projects\ECZANET\Eczanett\obj\x86\Debug\Eczanett.YETKILIKONTROL.resources
+C:\Users\ASUS\Desktop\Diğer Projeler\C# Projects\ECZANET\Eczanett\obj\x86\Debug\Eczanett.YETKILIPCHANGE.resources
+C:\Users\ASUS\Desktop\Diğer Projeler\C# Projects\ECZANET\Eczanett\obj\x86\Debug\Eczanett.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\Diğer Projeler\C# Projects\ECZANET\Eczanett\obj\x86\Debug\Eczanett.exe.licenses
+C:\Users\ASUS\Desktop\uygulamalar\C# Projects\ECZANET\Eczanett\obj\x86\Debug\Eczanett.exe
+C:\Users\ASUS\Desktop\uygulamalar\C# Projects\ECZANET\Eczanett\obj\x86\Debug\Eczanett.pdb
+C:\Users\ilkerPC\Desktop\MyFiles\Apps\C# Projects\ECZANET\Eczanett\obj\x86\Debug\Eczanett.csprojAssemblyReference.cache
+C:\Users\ilkerPC\Desktop\MyFiles\Apps\C# Projects\ECZANET\Eczanett\obj\x86\Debug\Eczanett.Acılıs.resources
+C:\Users\ilkerPC\Desktop\MyFiles\Apps\C# Projects\ECZANET\Eczanett\obj\x86\Debug\Eczanett.drone.resources
+C:\Users\ilkerPC\Desktop\MyFiles\Apps\C# Projects\ECZANET\Eczanett\obj\x86\Debug\Eczanett.Form1.resources
+C:\Users\ilkerPC\Desktop\MyFiles\Apps\C# Projects\ECZANET\Eczanett\obj\x86\Debug\Eczanett.kan.resources
+C:\Users\ilkerPC\Desktop\MyFiles\Apps\C# Projects\ECZANET\Eczanett\obj\x86\Debug\Eczanett.mektup.resources
+C:\Users\ilkerPC\Desktop\MyFiles\Apps\C# Projects\ECZANET\Eczanett\obj\x86\Debug\Eczanett.oes.resources
+C:\Users\ilkerPC\Desktop\MyFiles\Apps\C# Projects\ECZANET\Eczanett\obj\x86\Debug\Eczanett.oeskayıt.resources
+C:\Users\ilkerPC\Desktop\MyFiles\Apps\C# Projects\ECZANET\Eczanett\obj\x86\Debug\Eczanett.oessecım.resources
+C:\Users\ilkerPC\Desktop\MyFiles\Apps\C# Projects\ECZANET\Eczanett\obj\x86\Debug\Eczanett.PAROLADEGIS.resources
+C:\Users\ilkerPC\Desktop\MyFiles\Apps\C# Projects\ECZANET\Eczanett\obj\x86\Debug\Eczanett.Properties.Resources.resources
+C:\Users\ilkerPC\Desktop\MyFiles\Apps\C# Projects\ECZANET\Eczanett\obj\x86\Debug\Eczanett.sagalt.resources
+C:\Users\ilkerPC\Desktop\MyFiles\Apps\C# Projects\ECZANET\Eczanett\obj\x86\Debug\Eczanett.sagust.resources
+C:\Users\ilkerPC\Desktop\MyFiles\Apps\C# Projects\ECZANET\Eczanett\obj\x86\Debug\Eczanett.SIKAYET.resources
+C:\Users\ilkerPC\Desktop\MyFiles\Apps\C# Projects\ECZANET\Eczanett\obj\x86\Debug\Eczanett.solalt.resources
+C:\Users\ilkerPC\Desktop\MyFiles\Apps\C# Projects\ECZANET\Eczanett\obj\x86\Debug\Eczanett.solust.resources
+C:\Users\ilkerPC\Desktop\MyFiles\Apps\C# Projects\ECZANET\Eczanett\obj\x86\Debug\Eczanett.veriler.resources
+C:\Users\ilkerPC\Desktop\MyFiles\Apps\C# Projects\ECZANET\Eczanett\obj\x86\Debug\Eczanett.YETKILI.resources
+C:\Users\ilkerPC\Desktop\MyFiles\Apps\C# Projects\ECZANET\Eczanett\obj\x86\Debug\Eczanett.YETKILIKONTROL.resources
+C:\Users\ilkerPC\Desktop\MyFiles\Apps\C# Projects\ECZANET\Eczanett\obj\x86\Debug\Eczanett.YETKILIPCHANGE.resources
+C:\Users\ilkerPC\Desktop\MyFiles\Apps\C# Projects\ECZANET\Eczanett\obj\x86\Debug\Eczanett.csproj.GenerateResource.cache
+C:\Users\ilkerPC\Desktop\MyFiles\Apps\C# Projects\ECZANET\Eczanett\obj\x86\Debug\Eczanett.exe.licenses
+C:\Users\ilkerPC\Desktop\MyFiles\Apps\C# Projects\ECZANET\Eczanett\obj\x86\Debug\Eczanett.exe
+C:\Users\ilkerPC\Desktop\MyFiles\Apps\C# Projects\ECZANET\Eczanett\obj\x86\Debug\Eczanett.pdb
+C:\Users\ilkerPC\Desktop\MyFiles\Apps\C# Projects\ECZANET\Eczanett\bin\Debug\Eczanett.exe
+C:\Users\ilkerPC\Desktop\MyFiles\Apps\C# Projects\ECZANET\Eczanett\bin\Debug\Eczanett.pdb
+C:\Users\ilkerPC\Desktop\MyFiles\Apps\C# Projects\ECZANET\Eczanett\bin\Debug\DevExpress.AgDataGrid.v8.2.dll
+C:\Users\ilkerPC\Desktop\MyFiles\Apps\C# Projects\ECZANET\Eczanett\bin\Debug\DevExpress.AgMenu.v8.2.dll
+C:\Users\ilkerPC\Desktop\MyFiles\Apps\C# Projects\ECZANET\Eczanett\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\ilkerPC\Desktop\MyFiles\Apps\C# Projects\ECZANET\Eczanett\obj\x86\Debug\Eczanett.csproj.CoreCompileInputs.cache
+C:\Users\ilkerPC\Desktop\MyFiles\Apps\C# Projects\ECZANET\Eczanett\obj\x86\Debug\Eczanett.csproj.CopyComplete
